@@ -1,4 +1,4 @@
-# Compile examples
+# How to compile examples?
 
 test2 (Threads)
 
